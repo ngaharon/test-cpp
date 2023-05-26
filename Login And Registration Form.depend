@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685024485 source:c:\users\ngair\dropbox\pc\desktop\}\login and registration form\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
